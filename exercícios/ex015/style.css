@@ -1,0 +1,16 @@
+@chatset "UTF-8";
+        body {
+           background-color: lightyellow;
+            font-family: Arial, sans-serif;
+            font-size: 10px;
+        }
+        h1 {
+            color:dimgrey;
+            background-color: rgb(224, 244, 244);
+        }
+        h2 {
+            color: firebrick;
+        }
+        p {
+            text-align: justify ;
+        }
